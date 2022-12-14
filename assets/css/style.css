@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*The followinf 3 classes ('<aside>' tag in HTML) have equal values*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,7 +100,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*The followinf 3 classes('<aside>' tage in HTML) have an equal value*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -115,7 +115,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*The following 3 classes ('<aside>' tage in HTML) have equal values*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*The followinf 3 classes ('<section>' tag in HTML) have equal values*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +161,7 @@ p {
     color: #ffffff;
 }
 
+/*The following 3 classes ('<section>' tag in HTML) have equal values*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +173,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/*The following 3 classes ('<section>' tag in HTML) have equal values*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
